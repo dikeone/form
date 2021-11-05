@@ -1,0 +1,29 @@
+.container{
+    padding: 10px;
+    justify-content: space-around
+}
+
+.inp{
+    margin-right: 15px;
+}
+
+.btn{
+    margin-left: 10px;
+    width: 365px;
+    background-color: blue;
+    color: white
+}
+
+form{
+    border: 2px solid green;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px
+}
+
+hr{
+    width: 365px
+}
